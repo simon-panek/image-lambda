@@ -21,7 +21,7 @@
 
 ## Test Images
 
-![Upload Image]()
-![Thumbnail Image]()
+![Upload Image](vote-buttons-2.jpg)
+![Thumbnail Image](resized-vote-buttons-2.jpg)
 
 
